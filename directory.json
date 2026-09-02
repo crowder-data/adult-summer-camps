@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Camp Lola Whiskey\n",
+    "location": "",
+    "region": "",
+    "cost": "",
+    "length": "",
+    "website": ""
+  },
+  {
+    "name": "Camp Newaygo",
+    "location": "Michigan",
+    "region": "Midwest",
+    "cost": "TBD",
+    "length": "3 nights",
+    "website": "https://campnewaygo.org/friends-getaway/"
+  },
+  {
+    "name": "Camp NoCounselors",
+    "location": "New York",
+    "region": "Northeast",
+    "cost": "949",
+    "length": "3 nights",
+    "website": "https://www.campnocounselors.com/new-york"
+  },
+  {
+    "name": "Camp NoCounselors",
+    "location": "Texas",
+    "region": "Southwest",
+    "cost": "750",
+    "length": "3 nights",
+    "website": "https://www.campnocounselors.com/texas"
+  },
+  {
+    "name": "Camp NoCounselors",
+    "location": "California",
+    "region": "West",
+    "cost": "949",
+    "length": "3 nights",
+    "website": "https://www.campnocounselors.com/california"
+  },
+  {
+    "name": "Camp NoCounselors",
+    "location": "Florida",
+    "region": "Southeast",
+    "cost": "TBD",
+    "length": "3 nights",
+    "website": "https://www.campnocounselors.com/florida"
+  },
+  {
+    "name": "Eagle Bluff",
+    "location": "Minnesota",
+    "region": "Midwest",
+    "cost": "600",
+    "length": "4 nights",
+    "website": "https://eaglebluffmn.org/camps/asc/"
+  },
+  {
+    "name": "Camp NoCounselors",
+    "location": "Chicago",
+    "region": "Midwest",
+    "cost": "TBD",
+    "length": "3 nights",
+    "website": "https://www.campnocounselors.com/chicago"
+  }
+]
