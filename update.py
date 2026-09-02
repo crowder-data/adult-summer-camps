@@ -16,8 +16,11 @@ params = {}
 
 while True:
     response = requests.get(url, headers=headers, params=params)
-    response.raise_for_status()
-
+    
+    if response.status_code != 200:
+    print("STATUS:", response.status_code)
+    print("AIRTABLE RESPONSE:", response.text)
+    raise Exception("Airtable API request failed")
     data = response.json()
     records.extend(data.get("records", []))
 
