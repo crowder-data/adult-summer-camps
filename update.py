@@ -3,7 +3,7 @@ import os
 import requests
 
 BASE_ID = "appsXJD6hmXyJzYPv"
-TABLE_NAME = "Directory"
+TABLE_NAME = "Camps"
 
 url = f"https://api.airtable.com/v0/{BASE_ID}/{TABLE_NAME}"
 
